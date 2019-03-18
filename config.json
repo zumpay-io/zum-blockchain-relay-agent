@@ -1,0 +1,9 @@
+{
+  "daemon": {
+    "host": "localhost",
+    "port": 17935
+  },
+  "queues": {
+    "relayAgent": "request.network"
+  }
+}

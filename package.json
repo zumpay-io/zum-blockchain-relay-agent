@@ -1,0 +1,30 @@
+{
+  "name": "zumpay-bra",
+  "version": "1.2.0",
+  "description": "ZumPay: Blockchain Relay Agent",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zumpay-io/zum-blockchain-explorer-node.git"
+  },
+  "keywords": [
+    "ZumPay"
+  ],
+  "author": "ZumPay Development Team",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/zumpay-io/zum-blockchain-explorer-node/issues"
+  },
+  "homepage": "https://github.com/zumpay-io/zum-blockchain-explorer-node#readme",
+  "dependencies": {
+    "amqplib": "^0.5.3",
+    "zumcoin-rpc": "^1.2.0"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
