@@ -59,4 +59,5 @@ pm2 start index.js --name zum-blockchain-relay-agent -i max
 pm2 save
 ```
 
+###### (c) 2018 TurtlePay™ Development Team
 ###### (c) 2019 ZumPay™ Development Team
